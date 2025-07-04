@@ -1,6 +1,5 @@
 package org.testTask;
 
-import java.awt.*;
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.ArrayList;
@@ -8,7 +7,7 @@ import java.util.Collections;
 import java.util.List;
 import java.util.Scanner;
 
-public class task4 {
+public class Task4 {
     public static void main(String[] args) {
         if (args.length != 1) {
             System.out.println("В качестве аргумента укажите путь к файлу с згачениями массива");

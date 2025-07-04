@@ -1,0 +1,17 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Task2" type="Application" factoryName="Application" nameIsGenerated="true">
+    <option name="MAIN_CLASS_NAME" value="org.testTask.Task2" />
+    <module name="task2" />
+    <option name="PROGRAM_PARAMETERS" value="CircleParameters.txt Dots.txt" />
+    <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/task2/src/main/java/org/testTask" />
+    <extension name="coverage">
+      <pattern>
+        <option name="PATTERN" value="org.testTask.*" />
+        <option name="ENABLED" value="true" />
+      </pattern>
+    </extension>
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
